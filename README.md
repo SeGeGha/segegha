@@ -13,6 +13,11 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
+<h3>I am currently working on svelte products:</h3>
+
+1) Widget for detailing a grid item
+2) Postable_list - reactive list able to be updated from server via getting or posting, based on Svelte stores
+
 <h3>My last 🎁 projects</h3>
 <ul>
   <li><a href="https://github.com/SeGeGha/covid19-helper"><b>Covid Helper</b></a></li>
